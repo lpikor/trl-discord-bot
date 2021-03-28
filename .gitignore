@@ -1,0 +1,4 @@
+node_modules/
+.env
+img-opt.jpg
+eng.traineddata
